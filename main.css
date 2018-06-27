@@ -70,7 +70,9 @@
     color: #2F4B26;
     font-family: 'Lora', serif;
 }
-
+ #description {
+     font-size: 35px;
+ }
 #navbar {
     height: 60px;
 }

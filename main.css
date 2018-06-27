@@ -61,7 +61,7 @@
     padding: 30px;
 }
 
-#name {
+#headerName {
     font-size: 70px;
     color: #2F4B26;
     font-family: 'Lora', serif;
@@ -137,3 +137,12 @@ section {
     color: black;
 }
 
+#api {
+    width: 370px;
+    height: 272px;
+}
+
+#cssLink {
+    font-size: 20px;
+    color: black;
+}

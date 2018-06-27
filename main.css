@@ -118,9 +118,7 @@ section {
     width: 370px;
     height: 272px;
 }
-
  
-
 .footerBar {
     height: 150px; 
     width: 100%; 
@@ -130,6 +128,11 @@ section {
 }
 
 #storefrontLink {
+    font-size: 20px; 
+    color: black;
+}
+
+#apiLink {
     font-size: 20px; 
     color: black;
 }

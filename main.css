@@ -52,8 +52,12 @@
 }
 
 .form {
-    border: 3px solid darkgray;
+    border: 3px;
     border-radius: 5px;
+    background-image: url('./images/desktop.jpg');
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .learn {
@@ -146,3 +150,25 @@ section {
     font-size: 20px;
     color: black;
 }
+
+#name {
+    background-color: transparent;
+    border: 2px solid #CFFFBF;
+    color: #CFFFBF;
+}
+
+#email {
+    background-color: transparent; 
+    color: #CFFFBF;
+    border: 2px solid #CFFFBF
+}
+
+#message {
+    background-color: transparent; 
+    border: 2px solid #CFFFBF;
+    color: #CFFFBF;
+}
+ #headshot {
+     block-size: 350px;
+     border-radius: 5px;
+ }
